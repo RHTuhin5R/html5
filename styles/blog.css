@@ -1,0 +1,29 @@
+nav > ul >li{
+    display: inline-block;
+    /* text-align: center; */
+    margin-right: 20px ;
+    border: 5px;
+
+}
+
+nav li > a{
+    text-decoration: none;
+   
+
+}
+
+footer{
+
+    text-align: center;
+}
+
+figcaption{
+    color: yellowgreen;
+}
+#loru{
+    background-color: antiquewhite;
+    color: black;
+    font-size: medium;
+    border: 10px dashed pink;
+    margin-left: 30px;
+}
