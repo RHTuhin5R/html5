@@ -27,3 +27,7 @@ figcaption{
     border: 10px dashed pink;
     margin-left: 30px;
 }
+
+section > form >label{
+    display: block;
+}
